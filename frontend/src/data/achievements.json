@@ -1,0 +1,306 @@
+[
+  {
+    "id": "dota2_first_blood",
+    "gameId": "570",
+    "name": "First Blood",
+    "description": "Be part of first blood in a matchmaking game.",
+    "icon": "/images/achievements/dota2_first_blood.jpg",
+    "rarity": 78.5,
+    "unlocked": true,
+    "unlockedAt": "2024-01-15T14:30:00Z",
+    "points": 15
+  },
+  {
+    "id": "dota2_rampage",
+    "gameId": "570",
+    "name": "Rampage",
+    "description": "Kill 5 enemy heroes within 15 seconds.",
+    "icon": "/images/achievements/dota2_rampage.jpg",
+    "rarity": 2.1,
+    "unlocked": false,
+    "points": 50
+  },
+  {
+    "id": "dota2_win_game",
+    "gameId": "570",
+    "name": "Victory",
+    "description": "Win a matchmaking game.",
+    "icon": "/images/achievements/dota2_victory.jpg",
+    "rarity": 89.2,
+    "unlocked": true,
+    "unlockedAt": "2024-01-12T16:45:00Z",
+    "points": 10
+  },
+  {
+    "id": "cs2_first_kill",
+    "gameId": "730",
+    "name": "First Kill",
+    "description": "Kill an enemy player.",
+    "icon": "/images/achievements/cs2_first_kill.jpg",
+    "rarity": 95.8,
+    "unlocked": true,
+    "unlockedAt": "2023-10-02T19:20:00Z",
+    "points": 5
+  },
+  {
+    "id": "cs2_ace",
+    "gameId": "730",
+    "name": "Ace",
+    "description": "Kill all five enemies in a single round.",
+    "icon": "/images/achievements/cs2_ace.jpg",
+    "rarity": 8.7,
+    "unlocked": false,
+    "points": 30
+  },
+  {
+    "id": "cs2_defuse_bomb",
+    "gameId": "730",
+    "name": "Defuser",
+    "description": "Defuse 100 bombs.",
+    "icon": "/images/achievements/cs2_defuse.jpg",
+    "rarity": 23.4,
+    "unlocked": true,
+    "unlockedAt": "2024-02-18T21:15:00Z",
+    "points": 20
+  },
+  {
+    "id": "er_elden_lord",
+    "gameId": "1245620",
+    "name": "Elden Lord",
+    "description": "Achieved the \"Elden Lord\" ending.",
+    "icon": "/images/achievements/er_elden_lord.jpg",
+    "rarity": 35.7,
+    "unlocked": false,
+    "points": 50
+  },
+  {
+    "id": "er_first_demigod",
+    "gameId": "1245620",
+    "name": "Great Enemy Felled",
+    "description": "Defeated a demigod.",
+    "icon": "/images/achievements/er_demigod.jpg",
+    "rarity": 67.2,
+    "unlocked": true,
+    "unlockedAt": "2024-03-10T13:42:00Z",
+    "points": 25
+  },
+  {
+    "id": "er_legendary_armaments",
+    "gameId": "1245620",
+    "name": "Legendary Armaments",
+    "description": "Acquired all legendary armaments.",
+    "icon": "/images/achievements/er_legendary.jpg",
+    "rarity": 3.2,
+    "unlocked": false,
+    "points": 75
+  },
+  {
+    "id": "bg3_complete_act1",
+    "gameId": "1086940",
+    "name": "The Plot Thickens",
+    "description": "Complete Act I.",
+    "icon": "/images/achievements/bg3_act1.jpg",
+    "rarity": 58.9,
+    "unlocked": true,
+    "unlockedAt": "2024-01-22T20:30:00Z",
+    "points": 30
+  },
+  {
+    "id": "bg3_all_companions",
+    "gameId": "1086940",
+    "name": "Karmic Dice",
+    "description": "Recruit all possible companions in a single playthrough.",
+    "icon": "/images/achievements/bg3_companions.jpg",
+    "rarity": 12.4,
+    "unlocked": false,
+    "points": 40
+  },
+  {
+    "id": "bg3_tactician",
+    "gameId": "1086940",
+    "name": "Tactician",
+    "description": "Complete the game in Tactician mode.",
+    "icon": "/images/achievements/bg3_tactician.jpg",
+    "rarity": 1.8,
+    "unlocked": false,
+    "points": 100
+  },
+  {
+    "id": "rdr2_wanted_dead_alive",
+    "gameId": "1174180",
+    "name": "Wanted Dead or Alive",
+    "description": "Complete the story.",
+    "icon": "/images/achievements/rdr2_story.jpg",
+    "rarity": 45.2,
+    "unlocked": false,
+    "points": 50
+  },
+  {
+    "id": "rdr2_gold_medal",
+    "gameId": "1174180",
+    "name": "Gold Rush",
+    "description": "Earn 70 gold medals in story missions.",
+    "icon": "/images/achievements/rdr2_gold.jpg",
+    "rarity": 2.7,
+    "unlocked": false,
+    "points": 75
+  },
+  {
+    "id": "cp2077_legend",
+    "gameId": "1091500",
+    "name": "The Legend of Night City",
+    "description": "Complete the game on the hardest difficulty.",
+    "icon": "/images/achievements/cp2077_legend.jpg",
+    "rarity": 8.3,
+    "unlocked": false,
+    "points": 60
+  },
+  {
+    "id": "cp2077_complete_story",
+    "gameId": "1091500",
+    "name": "The Sun",
+    "description": "Complete 'The Sun' ending.",
+    "icon": "/images/achievements/cp2077_sun.jpg",
+    "rarity": 23.1,
+    "unlocked": true,
+    "unlockedAt": "2024-02-28T22:15:00Z",
+    "points": 40
+  },
+  {
+    "id": "valheim_first_boss",
+    "gameId": "892970",
+    "name": "Eikthyr rallies the creatures of the forest",
+    "description": "Defeat Eikthyr, your first boss.",
+    "icon": "/images/achievements/valheim_eikthyr.jpg",
+    "rarity": 72.5,
+    "unlocked": true,
+    "unlockedAt": "2024-01-08T15:20:00Z",
+    "points": 20
+  },
+  {
+    "id": "valheim_all_bosses",
+    "gameId": "892970",
+    "name": "Yagluth rallies the creatures of the plains",
+    "description": "Defeat Yagluth, the final boss.",
+    "icon": "/images/achievements/valheim_yagluth.jpg",
+    "rarity": 18.2,
+    "unlocked": false,
+    "points": 50
+  },
+  {
+    "id": "palworld_first_pal",
+    "gameId": "1623730",
+    "name": "Welcome to Palworld!",
+    "description": "Catch your first Pal.",
+    "icon": "/images/achievements/palworld_first.jpg",
+    "rarity": 91.3,
+    "unlocked": true,
+    "unlockedAt": "2024-01-20T11:10:00Z",
+    "points": 10
+  },
+  {
+    "id": "palworld_legendary",
+    "gameId": "1623730",
+    "name": "Legendary Pal Tamer",
+    "description": "Catch 100 different species of Pals.",
+    "icon": "/images/achievements/palworld_legendary.jpg",
+    "rarity": 5.7,
+    "unlocked": false,
+    "points": 80
+  },
+  {
+    "id": "itt_complete_game",
+    "gameId": "1426210",
+    "name": "It Takes Two",
+    "description": "Complete the game.",
+    "icon": "/images/achievements/itt_complete.jpg",
+    "rarity": 67.8,
+    "unlocked": true,
+    "unlockedAt": "2024-03-15T18:45:00Z",
+    "points": 50
+  },
+  {
+    "id": "itt_minigames",
+    "gameId": "1426210",
+    "name": "Minigame Megalomania",
+    "description": "Play all minigames.",
+    "icon": "/images/achievements/itt_minigames.jpg",
+    "rarity": 41.2,
+    "unlocked": true,
+    "unlockedAt": "2024-03-16T12:30:00Z",
+    "points": 30
+  },
+  {
+    "id": "satisfactory_factory",
+    "gameId": "526870",
+    "name": "A.W.E.S.O.M.E. Sink",
+    "description": "Complete Project Assembly.",
+    "icon": "/images/achievements/satisfactory_awesome.jpg",
+    "rarity": 22.1,
+    "unlocked": false,
+    "points": 40
+  },
+  {
+    "id": "satisfactory_golden_nut",
+    "gameId": "526870",
+    "name": "FICSIT Golden Nut",
+    "description": "Complete the Space Elevator.",
+    "icon": "/images/achievements/satisfactory_golden.jpg",
+    "rarity": 8.9,
+    "unlocked": false,
+    "points": 75
+  },
+  {
+    "id": "terraria_eye_cthulhu",
+    "gameId": "105600",
+    "name": "Eye on You",
+    "description": "Defeat the Eye of Cthulhu.",
+    "icon": "/images/achievements/terraria_eye.jpg",
+    "rarity": 76.4,
+    "unlocked": true,
+    "unlockedAt": "2023-12-05T14:20:00Z",
+    "points": 15
+  },
+  {
+    "id": "terraria_moon_lord",
+    "gameId": "105600",
+    "name": "Champion of Terraria",
+    "description": "Defeat the Moon Lord.",
+    "icon": "/images/achievements/terraria_moon_lord.jpg",
+    "rarity": 24.6,
+    "unlocked": true,
+    "unlockedAt": "2024-02-14T19:55:00Z",
+    "points": 60
+  },
+  {
+    "id": "terraria_all_bosses",
+    "gameId": "105600",
+    "name": "Slayer of Worlds",
+    "description": "Defeat every boss in Terraria.",
+    "icon": "/images/achievements/terraria_slayer.jpg",
+    "rarity": 4.2,
+    "unlocked": false,
+    "points": 100
+  },
+  {
+    "id": "we_first_wallpaper",
+    "gameId": "431960",
+    "name": "Getting Started",
+    "description": "Apply your first wallpaper.",
+    "icon": "/images/achievements/we_first.jpg",
+    "rarity": 98.7,
+    "unlocked": true,
+    "unlockedAt": "2024-01-01T10:00:00Z",
+    "points": 5
+  },
+  {
+    "id": "we_workshop",
+    "gameId": "431960",
+    "name": "Content Creator",
+    "description": "Upload a wallpaper to the Workshop.",
+    "icon": "/images/achievements/we_creator.jpg",
+    "rarity": 15.3,
+    "unlocked": false,
+    "points": 25
+  }
+]

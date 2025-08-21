@@ -1,0 +1,44 @@
+[
+  {
+    "id": "user-demo-1",
+    "displayName": "SteamHunter92",
+    "avatar": "/images/avatars/user1.jpg",
+    "country": "US",
+    "bio": "Achievement hunter since 2009. Love RPGs and indie games. Always looking for rare achievements!",
+    "platformIds": ["steam", "xbox", "playstation"],
+    "totals": {
+      "gamesTracked": 247,
+      "achievementsUnlocked": 3842,
+      "completionRate": 78.5,
+      "hoursPlayed": 12847
+    }
+  },
+  {
+    "id": "user-demo-2",
+    "displayName": "CompletionistPro",
+    "avatar": "/images/avatars/user2.jpg",
+    "country": "UK",
+    "bio": "100% completion or nothing! Specializing in challenging games and perfect runs.",
+    "platformIds": ["steam", "gog", "epic"],
+    "totals": {
+      "gamesTracked": 156,
+      "achievementsUnlocked": 4521,
+      "completionRate": 94.2,
+      "hoursPlayed": 8943
+    }
+  },
+  {
+    "id": "user-demo-3",
+    "displayName": "CasualGamer",
+    "avatar": "/images/avatars/user3.jpg",
+    "country": "CA",
+    "bio": "Playing for fun, not stress. Enjoy co-op games and story-driven adventures.",
+    "platformIds": ["nintendo", "steam"],
+    "totals": {
+      "gamesTracked": 89,
+      "achievementsUnlocked": 1247,
+      "completionRate": 45.3,
+      "hoursPlayed": 2156
+    }
+  }
+]

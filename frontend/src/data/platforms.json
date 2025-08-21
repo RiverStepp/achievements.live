@@ -1,0 +1,38 @@
+[
+  {
+    "id": "steam",
+    "name": "Steam",
+    "colorHex": "#1b2838",
+    "icon": "steam"
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox",
+    "colorHex": "#107c10",
+    "icon": "xbox"
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "colorHex": "#003087",
+    "icon": "playstation"
+  },
+  {
+    "id": "gog",
+    "name": "GOG",
+    "colorHex": "#7c2d92",
+    "icon": "gog"
+  },
+  {
+    "id": "epic",
+    "name": "Epic Games",
+    "colorHex": "#2d69ae",
+    "icon": "epic"
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo Switch",
+    "colorHex": "#e60012",
+    "icon": "nintendo"
+  }
+]
