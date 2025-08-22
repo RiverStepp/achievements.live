@@ -21,10 +21,23 @@ export const useUserStore = defineStore('user', () => {
   const autoTrackGames = ref(true)
   
   // Auth functions (mock implementation)
-  function signIn(userData: Omit<User, 'id'>) {
-    const user: User = {
+  function signIn(userData?: Omit<User, 'id'>) {
+    const user: User = userData ? {
       id: `user-${Date.now()}`,
       ...userData
+    } : {
+      id: `user-demo-${Date.now()}`,
+      displayName: 'Demo User',
+      avatar: '/images/avatars/user1.jpg',
+      country: 'US',
+      bio: 'Achievement hunter and gaming enthusiast!',
+      platformIds: ['steam', 'xbox'],
+      totals: {
+        gamesTracked: 156,
+        achievementsUnlocked: 2847,
+        completionRate: 73.8,
+        hoursPlayed: 8943
+      }
     }
     currentUser.value = user
     localStorage.setItem('achievement-tracker-user', JSON.stringify(user))
